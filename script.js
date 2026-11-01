@@ -1,5 +1,5 @@
 /* ===== EDIT THESE ===== */
-const FRIEND = { name: "angelic", birthday: "Her Birthday" };
+const FRIEND = { name: "angelic", birthday: "" };
 const FROM = "Your best friend";
 /* ====================== */
 
@@ -16,7 +16,7 @@ const G = { // simple SVG glyphs, 100x100
 };
 const READINGS = [
  {pos:"The Past", sub:"What she has survived", card:"The Tower", g:"tower",
-  text:"Once, the ground shook and the walls you trusted fell. You thought it was the end of the story. It was only the clearing of the stage. Every storm you walked through left you with a quiet strength that no one handed you. You were never broken, only rebuilt, wiser and softer in the right places."},
+  text:"Once, the ground shook and the walls you trusted fell. You thought it was the end of the story. It was only the clearing of the stage. Evry storm you walked through left you with a quiet strength that no one handed you. You were never broken, only rebuilt, wiser and softer in the right places."},
  {pos:"The Present", sub:"Her current energy", card:"The High Priestess", g:"priestess",
   text:"Right now you are standing at a threshold, listening. Your intuition is louder than it has been in years, and it is telling you the truth. Stillness is not waiting. It is gathering. Trust the whisper beneath the noise, for it has never once led you astray."},
  {pos:"The Future", sub:"What awaits her", card:"The Wheel of Fortune", g:"wheel",
