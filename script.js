@@ -1,5 +1,5 @@
 /* ===== EDIT THESE ===== */
-const FRIEND = { name: "Her Name", birthday: "Her Birthday" };
+const FRIEND = { name: "angelic", birthday: "Her Birthday" };
 const FROM = "Your best friend";
 /* ====================== */
 
